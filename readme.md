@@ -2,6 +2,8 @@
 
 Welcome to the Triple Nipple Pepe Token (TNPT) repository! Because three NIPS are better than none!
 
+https://scan.maxxchain.org/address/0x9796E706850AC94E7585f02201b0820498f0cA07/contracts#address-tabs
+
 ![Triple Nipple Pepe Token Logo](https://raw.githubusercontent.com/ArielRin/Tripple-Nipple-Pepe/master/NIPSOUTPEPE.png)
 
 ## Token Details
